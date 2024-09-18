@@ -15,7 +15,7 @@ const PORT = process.env.PORT || '8080';
 // Middlewares
 app.use(express.json());
 app.use(cors({
-    origin: 'http://localhost:8000'
+    origin: 'https://signup-sys7.vercel.app/'
 }));
 // app.use(cors());
 app.use(morgan('tiny'));

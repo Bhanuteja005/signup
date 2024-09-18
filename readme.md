@@ -120,25 +120,6 @@ Getting Started
 - Purpose: Generate one-time passwords (OTPs), often used for two-factor authentication (2FA).
 - Usage: Generate OTPs for secure user authentication.
 
-## Deployment
-The front-end and back-end of this project are both deployed on [Render.com](https://render.com).
-
-- Site Link: [Complete Login System](https://login-system-raj4823.onrender.com)
 
 
-## Author
-###### Raj Patel ([RAJ4823](https://github.com/RAJ4823 "RAJ4823"))
-
-## Acknowledgments
-
-A big thanks to the video creator and the original project author for their valuable contributions to this project.
-
-This project was developed with guidance and valuable insights obtained from the following YouTube video:
-- [MERN Stack Login System Tutorial](https://www.youtube.com/watch?v=BfrJxGQEPSc) by [Akshay Kashyap](https://github.com/akashyap2013)
-
-The original project repository can be found here:
-- [GitHub Repository](https://github.com/akashyap2013/MERN_Login_App_with_ResetEmail)
-
-
----
 
